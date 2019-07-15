@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: MetaMapCVT
 ## Notes: Conversions and imports module
+## Notes-ruRU: Модуль переноса и импорта
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables:

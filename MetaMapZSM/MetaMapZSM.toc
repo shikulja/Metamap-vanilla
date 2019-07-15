@@ -2,6 +2,7 @@
 ## Title: MetaMapZSM
 ## Author: MetaHawk
 ## Notes: ZoneShift module for German and French clients.
+## Notes-ruRU: Модуль ZoneShift для немецких и французских клиентов.
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables:

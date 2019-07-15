@@ -2,6 +2,7 @@
 ## Title: MetaMapHLP
 ## Author: MetaHawk
 ## Notes: Help module for MetaMap.
+## Notes-ruRU: Справочный модуль для MetaMap.
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 MetaMapHLP.xml

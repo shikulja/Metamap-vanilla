@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: MetaMapFWM
 ## Notes: Overlay module which shows unexplored areas of the WorldMap.
+## Notes-ruRU: Модуль наложения, который показывает неисследованные области Мировой карты.
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables: FWM_Options

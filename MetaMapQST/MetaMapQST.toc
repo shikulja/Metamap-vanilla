@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: MetaMapQST
 ## Notes: Displays your quests and keeps a history database.
+## Notes-ruRU: Отображает ваши квесты и хранит историю базы данных.
 ## Author: Urshurak
 ## SavedVariables: QST_Options, QST_QuestLog, QST_QuestBase
 ## Dependencies: MetaMap

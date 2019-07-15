@@ -2,6 +2,7 @@
 ## Title: MetaMapEXP
 ## Author: MetaHawk
 ## Notes: MetaMap export module.
+## Notes-ruRU: Модуль экспорта MetaMap.
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables: MyKB_Data, MyNotes_Data, MyLines_Data, MyQST_QuestBase

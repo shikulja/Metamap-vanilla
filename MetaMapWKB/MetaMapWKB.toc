@@ -2,6 +2,7 @@
 ## Title: MetaMapWKB
 ## Author: MetaHawk
 ## Notes: MetaMapWKB adds a user database of MoBs/NPCs from aquired targets.
+## Notes-ruRU: Добавляет пользовательскую базу данных Мобов/NPC из известных целей.
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables: MetaKBOptions, MetaKB_Data

@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: MetaMapBLT
 ## Notes: Adds Boss Loot Tables to MetaMap, edited by Daviesh and based on AtlasLoot Enhanced by Daviesh
+## Notes-ruRU: Добавляет список лута с боссов в MetaMap, отредактированный Daviesh и основанный на AtlasLoot Enhanced от Daviesh
 ## Dependencies: MetaMap
 ## LoadOnDemand: 1
 ## SavedVariables: MetaMapBLTData

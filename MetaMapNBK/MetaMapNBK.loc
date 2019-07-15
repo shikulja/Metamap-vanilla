@@ -1,4 +1,4 @@
-﻿-- Default English localisation
+-- Default English localisation
 
 NBK_TOOLTIPS_TEXT = "Show information in Tooltips";
 NBK_GUILD_TEXT    = "Show GuildName in Tooltips";
@@ -10,7 +10,20 @@ NBK_HEADCOLOR_TEXT = "Header text color";
 NBK_TEXTCOLOR_TEXT = "Body text color";
 NBK_TTIPCOLOR_TEXT = "Tooltip text color";
 
-if ( GetLocale() == "frFR" ) then
+if ( GetLocale() == "ruRU" ) then
+-- Russian localisation
+
+NBK_TOOLTIPS_TEXT = "Показать информацию в подсказках";
+NBK_GUILD_TEXT    = "Показать название гильдии в подсказках";
+NBK_SOUND1_TEXT   = "Звук - если цель совпала";
+NBK_SOUND2_TEXT   = "Звук - если заметка на карте совпала";
+NBK_SCALE_TEXT    = "Масштаб";
+NBK_LISTCOLOR_TEXT = "Цвет текста списка";
+NBK_HEADCOLOR_TEXT = "Цвет текста заголовка";
+NBK_TEXTCOLOR_TEXT = "Цвет основного текста";
+NBK_TTIPCOLOR_TEXT = "Цвет текста подсказки";
+
+elseif ( GetLocale() == "frFR" ) then
 -- French localisation
     
 NBK_TOOLTIPS_TEXT = "Show information in Tooltips";

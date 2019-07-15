@@ -2,6 +2,7 @@
 ## Title: MetaMap
 ## Author: MetaHawk
 ## Notes: MetaMap adds many enhancements to the WoW WorldMap.
+## Notes-ruRU: Добавляет множество улучшений для Карты Мира.
 ## Dependencies:
 ## OptionalDeps: Gatherer, FlightMap, NotesUNeed, Titan, myAddOns
 ## DefaultState: enabled
